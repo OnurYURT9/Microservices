@@ -7,3 +7,4 @@ C:\Users\ONUR\source\repos\UdemyMicroservices\Shared\FreeCourseShared\obj\Debug\
 C:\Users\ONUR\source\repos\UdemyMicroservices\Shared\FreeCourseShared\obj\Debug\netcoreapp3.1\FreeCourseShared.csproj.CoreCompileInputs.cache
 C:\Users\ONUR\source\repos\UdemyMicroservices\Shared\FreeCourseShared\obj\Debug\netcoreapp3.1\FreeCourseShared.dll
 C:\Users\ONUR\source\repos\UdemyMicroservices\Shared\FreeCourseShared\obj\Debug\netcoreapp3.1\FreeCourseShared.pdb
+C:\Users\ONUR\source\repos\UdemyMicroservices\Shared\FreeCourseShared\obj\Debug\netcoreapp3.1\FreeCourseShared.csproj.AssemblyReference.cache

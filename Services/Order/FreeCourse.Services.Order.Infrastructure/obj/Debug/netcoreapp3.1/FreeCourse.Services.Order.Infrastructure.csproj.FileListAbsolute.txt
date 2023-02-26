@@ -13,3 +13,6 @@ C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services
 C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Infrastructure\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Domain.Core.pdb
 C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Infrastructure\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Infrastructure\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Infrastructure.csproj.CopyComplete
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Infrastructure\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Infrastructure.runtimeconfig.json
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Infrastructure\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Infrastructure.runtimeconfig.dev.json
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Infrastructure\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Infrastructure.genruntimeconfig.cache
