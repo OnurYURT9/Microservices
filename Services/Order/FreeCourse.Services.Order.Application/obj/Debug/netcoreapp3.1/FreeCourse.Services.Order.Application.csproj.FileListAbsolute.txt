@@ -1,0 +1,17 @@
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.deps.json
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.dll
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.pdb
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.csproj.AssemblyReference.cache
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.AssemblyInfoInputs.cache
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.AssemblyInfo.cs
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.dll
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.pdb
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Domain.Core.dll
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Domain.dll
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Infrastructure.dll
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Domain.pdb
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Infrastructure.pdb
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\bin\Debug\netcoreapp3.1\FreeCourse.Services.Order.Domain.Core.pdb
+C:\Users\ONUR\source\repos\UdemyMicroservices\Services\Order\FreeCourse.Services.Order.Application\obj\Debug\netcoreapp3.1\FreeCourse.Services.Order.Application.csproj.CopyComplete
