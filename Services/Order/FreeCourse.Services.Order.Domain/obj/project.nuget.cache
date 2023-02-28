@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hRawtEEJCnWFha475PdAruCPItWWPxgSsaLZBgLvlW2ylFJcQezRTCaCiVmPNCIeQpzlq4Mb3EHukPdpFnn+pw==",
+  "dgSpecHash": "QYhi1u2zLK21mRBFjtj6uKSdXhslK7dl9AsxJfAOWKl1A31QZCencIs9k0OOXehWTzUlKbyEAMTSeTPe0x8xHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ONUR\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\ONUR\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\ONUR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

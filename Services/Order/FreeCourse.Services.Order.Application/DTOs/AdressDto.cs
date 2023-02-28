@@ -6,10 +6,10 @@ namespace FreeCourse.Services.Order.Application.DTOs
 {
     public class AdressDto
     {
-        public string Provience { get; private set; }
-        public string District { get; private set; }
-        public string Street { get; private set; }
-        public string ZipCode { get; private set; }
-        public string Line { get; private set; }
+        public string Provience { get;  set; }
+        public string District { get;  set; }
+        public string Street { get;  set; }
+        public string ZipCode { get;  set; }
+        public string Line { get;  set; }
     }
 }

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ti6SWufj7lzvJGC1GcS28CGiiemokL0YRek8WpBxKS8rhoEcs4Lduyg1ZOzpasGVng5tujOt1Sbr8qkicYJ7GA==",
+  "dgSpecHash": "pfzpa/WUb+3Wh8YjTp7N/fhpXphlHH1Y9I8/JzIjhE7vaWVnszHiVZa1QFaTTVUd2CixaeH030vp7mTYOxrgSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ONUR\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\ONUR\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\ONUR\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ONUR\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\ONUR\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -35,9 +35,6 @@
             "projectReferences": {
               "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj": {
                 "projectPath": "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj"
-              },
-              "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourseShared\\FreeCourseShared.csproj": {
-                "projectPath": "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourseShared\\FreeCourseShared.csproj"
               }
             }
           }
@@ -52,11 +49,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Swashbuckle.AspNetCore.SwaggerGen": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[3.1.32, )"
             },
-            "Swashbuckle.AspNetCore.SwaggerUI": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
             }
@@ -117,6 +120,9 @@
               },
               "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj"
+              },
+              "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourseShared\\FreeCourseShared.csproj": {
+                "projectPath": "C:\\Users\\ONUR\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourseShared\\FreeCourseShared.csproj"
               }
             }
           }
@@ -130,6 +136,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -252,6 +264,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -316,6 +338,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.32, )"
